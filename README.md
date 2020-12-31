@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [DarkGun999!](https://vaporjawn.github.io) 
+### Hey 👋🏽, I'm [DarkGun999!](https://darkgun999.github.io) 
 
 <br />
 
@@ -8,7 +8,7 @@ Hi, I'm Jan Petry, a Full Stack Developer 🚀 from Germany, currently, I'm curr
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on a Vue.js projekt with [Max!](https://github.com/steinwand2407/steinwand2407);
+- 👨🏽‍💻 I’m currently working on a Vue.js projekt with [Max](https://github.com/steinwand2407/);
 - 🌱 I’m currently learning Vue.js; 
 - 👯 I’m open to collaborate;
 - 💬 Ask me about anything, I am happy to help;

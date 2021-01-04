@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [DarkGun999!](https://darkgun999.github.io) 
+### Hey 👋🏽, I'm [omgitsjan!](https://omgitsjan.github.io) 
 <br />
 Hi, I'm Jan Petry, a Full Stack Developer 🚀 from Germany, currently, i am in a apprenticeship at 🙍🏽‍♂️ [@Universität Trier](https://www.uni-trier.de). Beside's programming, I produce some music (mostly EDM) and love cars.
 

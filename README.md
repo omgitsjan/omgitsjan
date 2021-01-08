@@ -27,4 +27,4 @@ Hi, I'm Jan Petry, a Full Stack Developer 🚀 from Germany, currently, i am in 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Jan's github stats](https://github-readme-stats.vercel.app/api?username=darkgun999&show_icons=true&hide_border=true)
+![Jan's github stats](https://github-readme-stats.vercel.app/api?username=omgitsjan&show_icons=true&hide_border=true)

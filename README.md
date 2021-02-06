@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [omgitsjan!](https://omgitsjan.github.io) 
 <br />
-Hi, I'm Jan Petry, a Full Stack Developer 🚀 from Germany, currently, i am in a apprenticeship at 💻 Universität-Trier. Beside's programming, I produce some music (mostly EDM) and love cars.
+Hi, I'm Jan Petry, a Full Stack Developer 🚀 from Germany, currently, i am in a apprenticeship at 💻 Universität-Trier. Beside's programming, I produce some music (mostly EDM) and i love cars.
 
   <img align="right" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/548680779294299319/E82BA5D36F99836B4350262310C6231E65160EF3/" />
 

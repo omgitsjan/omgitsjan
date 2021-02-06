@@ -6,7 +6,7 @@ Hi, I'm Jan Petry, a Full Stack Developer 🚀 from Germany, currently, i am in 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on a Vue.js projekt with [Max](https://github.com/steinwand2407/);
+- 👨🏽‍💻 I’m currently working on a ASP.NET projekt with [Daniel](https://github.com/xXDaniel1109Xx);
 - 🌱 I’m currently learning Vue.js; 
 - 👯 I’m open to collaborate;
 - 💬 Ask me about anything, I am happy to help;

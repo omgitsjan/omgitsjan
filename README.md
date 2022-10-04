@@ -6,11 +6,10 @@ Hi, I'm Jan Petry, a Full Stack Developer 🚀 from Germany, currently, i am wor
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on a ASP.NET projekt with [Daniel](https://github.com/xXDaniel1109Xx);
-- 🌱 I’m currently learning more about Angular; 
-- 👯 I’m open to collaborate;
+- 👨🏽‍💻 I’m currently working on a projekt with [Max](https://github.com/maxsteinwand);
+- 🌱 I’m currently learning more about Angular and Vue; 
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Always give 110%;
+- ⚡️ Always give 110%;
 - 📫 How to reach me: omg.itsjan#0151 on Discord;
 
 **Languages and Tools:**  
@@ -21,7 +20,6 @@ Hi, I'm Jan Petry, a Full Stack Developer 🚀 from Germany, currently, i am wor
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>

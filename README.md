@@ -1,14 +1,14 @@
 ### Hey 👋🏽, I'm [omgitsjan!](https://omgitsjan.github.io)
 
 <br />
-Hi, I'm Jan Petry, a Full Stack Developer 🚀 from Germany, currently, i am working for 💻 AEINS Digital Innovation GmbH. Beside's programming, I produce some music (mostly EDM) and i love cars, with my Girlfriend i love to programm with her on studies.
+Hi, I'm Jan Petry, a Full Stack Developer 🚀 from Germany, currently, i am working for 💻 AEINS Digital Innovation GmbH. Beside's programming, I produce some music and i also love cars.
 
   <img align="right" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/548680779294299319/E82BA5D36F99836B4350262310C6231E65160EF3/" />
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on a projekt with [Max](https://github.com/maxsteinwand);
-- 🌱 I’m currently learning more about Angular and Vue;
+- 🌱 I’m currently learning more about Vue and Nuxt;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Always give 110%;
 - 📫 How to reach me: omg.itsjan#0151 on Discord;
@@ -26,4 +26,4 @@ Hi, I'm Jan Petry, a Full Stack Developer 🚀 from Germany, currently, i am wor
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Jan's github stats](https://github-readme-stats.vercel.app/api?username=omgitsjan&show_icons=true&hide_border=true)
+![Jan's github stats](https://github-readme-stats.vercel.app/api?username=omgitsjan&show_icons=true&hide_border=false)

@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [omgitsjan!](https://omgitsjan.github.io)
 
 <br />
-Hi, I'm Jan Petry, a Full Stack Developer 🚀 from Germany, currently, i am working for 💻 AEINS Digital Innovation GmbH. Beside's programming, I produce some music and i also love cars.
+Hi, I'm Jan Petry, a Full Stack Developer 🚀 from Germany, currently, i am working for 💻 KÜS DATA GmbH. Beside's programming, I produce some music and i also love cars.
 
   <img align="right" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/548680779294299319/E82BA5D36F99836B4350262310C6231E65160EF3/" />
 

@@ -47,12 +47,15 @@ Hi, I'm Jan, a Full Stack Developer 🚀 from Germany, currently working for KÜ
 
 ---
 
+<h3 align="center">📈 Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omgitsjan&show_icons=true&hide_border=false&theme=default" alt="Jan's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omgitsjan&show_icons=true&hide_border=false&theme=default" alt="GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omgitsjan&show_icons=true&hide_border=false&theme=discord_old_blurple" alt="Jan's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omgitsjan&show_icons=true&hide_border=false&theme=discord_old_blurple" alt="GitHub streak" height="165"/>
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=omgitsjan&show_icons=true&hide_border=false&theme=default" alt="GitHub trophys" />
+    <img src="https://github-profile-trophy.vercel.app/?username=omgitsjan&margin-w=15&margin-h=15&theme=discord" alt="GitHub trophys" />
   </a>
 </p>
+
+---

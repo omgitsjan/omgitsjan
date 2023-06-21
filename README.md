@@ -28,7 +28,7 @@ Hi, I'm Jan, a Full Stack Developer 🚀 from Germany, currently working for KÜ
 
 ## 📫 Contact Me 
 - Discord - omgitsjan#0151
-- LinkedIn - [Jan Petry](https://www.linkedin.com/in/jan-petry)
+- Email - [mail@janpetry.de](mailto:mail@janpetry.de)
 
 ## ⚙️ Technologies & Tools
 

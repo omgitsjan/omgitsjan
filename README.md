@@ -8,9 +8,6 @@ Hi, I'm Jan, a Full Stack Developer 🚀 from Germany, currently working for KÜ
     <img src="https://img.shields.io/github/followers/omgitsjan?style=social" alt="GitHub followers" />
   </a>
   <img src="https://img.shields.io/badge/Discord-omgitsjan%230151-blue" alt="Discord" />
-  <a href="https://wakatime.com/@42dbe65e-0ea0-4cd9-8f2a-17ac0ad1563e">
-    <img src="https://wakatime.com/badge/user/42dbe65e-0ea0-4cd9-8f2a-17ac0ad1563e.svg" alt="Wakatime" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=omgitsjan" alt="Profile views" />
 </p>
 

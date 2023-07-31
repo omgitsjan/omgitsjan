@@ -1,5 +1,5 @@
 
-### Hey there, I'm [omgitsjan!](https://omgitsjan.github.io) 👋
+## Hey there, I'm [omgitsjan!](https://omgitsjan.github.io) 👋
 
 Hi, I'm Jan, a Full Stack Developer 🚀 from Germany, currently working for KÜS DATA GmbH. Besides programming, I also produce music and have a passion for cars. Check out my [Website](https://janpetry.de) for more.
 
@@ -10,10 +10,6 @@ Hi, I'm Jan, a Full Stack Developer 🚀 from Germany, currently working for KÜ
   <img src="https://img.shields.io/badge/Discord-omgitsjan%230151-blue" alt="Discord" />
   <img src="https://komarev.com/ghpvc/?username=omgitsjan" alt="Profile views" />
 </p>
-
----
-
-<img align="right" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/548680779294299319/E82BA5D36F99836B4350262310C6231E65160EF3/" width="500" height="320" />
 
 ## 🧐 About
 

@@ -5,16 +5,16 @@ Hi, I'm Jan, a Full Stack Developer 🚀 from Germany, currently working for KÜ
 
 <p align="center">
   <a href="https://github.com/omgitsjan">
-    <img src="https://img.shields.io/github/followers/omgitsjan?style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/omgitsjan?style=social" alt="GitHub followers badge" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-omgitsjan%230151-blue" alt="Discord" />
-  <img src="https://komarev.com/ghpvc/?username=omgitsjan" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Discord-omgitsjan-blue" alt="Discord badge" />
+  <img src="https://komarev.com/ghpvc/?username=omgitsjan" alt="Profile views badge" />
 </p>
 
 ## 🧐 About
 
 - 👨🏽‍💻 I’m currently working on a project with [Max](https://github.com/maxsteinwand) and [Daniel](https://github.com/xXDaniel1109Xx)
-- 🌱 I’m learning more about Vue and Nuxt
+- 🌱 I’m learning more about Nuxt
 - 💬 Ask me about anything, I am happy to help
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play piano and produce music with FL

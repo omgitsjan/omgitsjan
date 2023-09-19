@@ -20,7 +20,7 @@ Hi, I'm Jan, a Full Stack Developer 🚀 from Germany, currently working for KÜ
 - ⚡ Fun fact: I love to play piano and produce music with FL
 
 ## 📫 Contact Me 
-- Discord - omgitsjan#0151
+- Discord - omgitsjan
 - Email - [mail@janpetry.de](mailto:mail@janpetry.de)
 
 ## ⚙️ Technologies & Tools

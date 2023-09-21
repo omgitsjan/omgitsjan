@@ -1,7 +1,7 @@
 
 ## Hey there, I'm [omgitsjan!](https://omgitsjan.github.io) 👋
 
-Hi, I'm Jan, a Full Stack Developer 🚀 from Germany, currently working for KÜS DATA GmbH. Besides programming, I also produce music and have a passion for cars. Check out my [Website](https://janpetry.de) for more.
+Hi, I'm Jan, a Full Stack Developer 🚀 from Germany, currently working for [KÜS DATA GmbH](https://www.kues-data.de/). Besides programming, I also produce music and have a passion for cars. Check out my [Website](https://janpetry.de) for more.
 
 <p align="center">
   <a href="https://github.com/omgitsjan">

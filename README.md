@@ -13,8 +13,8 @@ Hi, I'm Jan, a Full Stack Developer 🚀 from Germany, currently working for [K�
 
 ## 🧐 About
 
-- 👨🏽‍💻 I’m currently working on a project with [Max](https://github.com/maxsteinwand) and [Daniel](https://github.com/xXDaniel1109Xx)
-- 🌱 I’m learning more about Nuxt
+- 👨🏽‍💻 I’m currently working on a saas project with Next.js
+- 🌱 I’m learning more about Nuxt 3 and Next.js
 - 💬 Ask me about anything, I am happy to help
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play piano and produce music with FL

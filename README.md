@@ -1,7 +1,7 @@
 
-## Hey there, I'm [omgitsjan!](https://omgitsjan.github.io) 👋
+## Hey there, I'm [omgitsjan!](https://github.com/omgitsjan) 👋
 
-Hi, I'm Jan, a Full Stack Developer 🚀 from Germany, currently working for [KÜS DATA GmbH](https://www.kues-data.de/). Besides programming, I also produce music and have a passion for cars. Check out my [Website](https://janpetry.de) for more.
+Hi, I'm Jan, a Full Stack Developer 🚀 from Germany, currently working for a Association for Technical Inspection. Besides programming, I also produce music and have a passion for cars. Check out my [Website](https://janpetry.de) for more and don't forget to follow!
 
 <p align="center">
   <a href="https://github.com/omgitsjan">
@@ -13,11 +13,11 @@ Hi, I'm Jan, a Full Stack Developer 🚀 from Germany, currently working for [K�
 
 ## 🧐 About
 
-- 👨🏽‍💻 I’m currently working on a saas project with Next.js
-- 🌱 I’m learning more about Nuxt 3 and Next.js
-- 💬 Ask me about anything, I am happy to help
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play piano and produce music with FL
+- 👨🏽‍💻 I’m currently working on a SaaS project with Next.js
+- 🌱 I’m learning more about Nuxt and Next.js
+- 💬 Ask me about anything, I am happy to help :D
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to produce music with FL Studio
 
 ## 📫 Contact Me 
 - Discord - omgitsjan

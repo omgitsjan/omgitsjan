@@ -13,9 +13,9 @@ Hi, I'm Jan, a Full Stack Developer 🚀 from Germany, currently working for a A
 
 ## 🧐 About
 
-- 👨🏽‍💻 I’m currently working on a SaaS project with Next.js
-- 🌱 I’m learning more about Nuxt and Next.js
-- 💬 Ask me about anything, I am happy to help :D
+- 👨🏽‍💻 I’m currently working on some Web  Project for a few customer with Nuxt 3 & Nuxt UI
+- 🌱 I’m learning more about Nuxt 💚
+- 💬 Talk with me about anything, I am happy to help or learn :D
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to produce music with FL Studio
 

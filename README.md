@@ -1,54 +1,28 @@
+# Hey there, I'm Jan (omgitsjan) 👋
 
-## Hey there, I'm [omgitsjan!](https://github.com/omgitsjan) 👋
-
-Hi, I'm Jan, a Full Stack Developer 🚀 from Germany, currently working for a Association for Technical Inspection. Besides programming, I also produce music and have a passion for cars. Check out my [Website](https://janpetry.de) for more and don't forget to follow!
-
-<p align="center">
-  <a href="https://github.com/omgitsjan">
-    <img src="https://img.shields.io/github/followers/omgitsjan?style=social" alt="GitHub followers badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Discord-omgitsjan-blue" alt="Discord badge" />
-  <img src="https://komarev.com/ghpvc/?username=omgitsjan" alt="Profile views badge" />
-</p>
-
-## 🧐 About
-
-- 👨🏽‍💻 I’m currently working on some Web Project with Nuxt 3 & Nuxt UI
-- 🌱 I’m learning more about Nuxt 💚
-- 💬 Talk with me about anything, I am happy to help or learn :D
-- 🥅 2025 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to produce music with FL Studio
-
-## 📫 Contact Me 
-- Discord - omgitsjan
-- Email - [mail@janpetry.de](mailto:mail@janpetry.de)
-
-## ⚙️ Technologies & Tools
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+Full Stack Developer | Music Producer | Car Enthusiast
 
 ---
 
-<h3 align="center">📈 Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omgitsjan&show_icons=true&hide_border=false&theme=discord_old_blurple" alt="Jan's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omgitsjan&show_icons=true&hide_border=false&theme=discord_old_blurple" alt="GitHub streak" height="165"/>
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=omgitsjan&margin-w=15&margin-h=15&theme=discord" alt="GitHub trophys" />
-  </a>
-</p>
+### 🚀 Currently working on
+- **[Daylify](https://github.com/JPProfessionals/daylify-app)**: Building a community-driven local event & POI app.
+- **[CarSpike](https://github.com/JPProfessionals/CarSpike)**: A fleet management showcase with Nuxt 3 & Supabase.
+- **Agency Work**: Scaling digital solutions at [JPProfessionals](https://github.com/JPProfessionals).
+
+### 🛠 Tech Stack
+- **Frontend**: Nuxt (💚), React Native (Expo), Next.js, Tailwind CSS
+- **Backend**: Node.js, Supabase, PostgreSQL
+- **DevOps**: Vercel, Docker, GitHub Actions
+
+### 🎵 Beyond Code
+When I'm not coding, you'll find me:
+- Producing electronic music as **[Plutomes](https://plutomes.com)**.
+- Driving or tinkering with cars.
+
+### 📫 Connect with me
+- **Website**: [janpetry.de](https://janpetry.de)
+- **Discord**: omgitsjan
+- **Email**: [mail@janpetry.de](mailto:mail@janpetry.de)
 
 ---
+![Jan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omgitsjan&show_icons=true&theme=tokyonight)

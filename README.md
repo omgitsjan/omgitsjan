@@ -5,8 +5,8 @@ Full Stack Developer | Music Producer | Car Enthusiast
 ---
 
 ### 🚀 Currently working on
-- **[Daylify](https://github.com/JPProfessionals/daylify-app)**: Building a community-driven local event & POI app.
-- **[CarSpike](https://github.com/JPProfessionals/CarSpike)**: A fleet management showcase with Nuxt 3 & Supabase.
+- **[Daylify](https://github.com/JPProfessionals/daylify-app)**: Building a community-driven local event & POI app (React Native/Nuxt 4).
+- **[CarSpike](https://github.com/JPProfessionals/CarSpike-com)**: A fleet management showcase featuring a **3D Garage** built with Three.js & React Three Fiber.
 - **Agency Work**: Scaling digital solutions at [JPProfessionals](https://github.com/JPProfessionals).
 
 ### 🛠 Tech Stack

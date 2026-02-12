@@ -12,7 +12,7 @@ Full Stack Developer | Music Producer | Car Enthusiast
 ### 🛠 Tech Stack
 - **Frontend**: Nuxt (💚), React Native (Expo), Next.js, Tailwind CSS
 - **Backend**: Node.js, Supabase, PostgreSQL
-- **DevOps**: Vercel, Docker, GitHub Actions
+- **DevOps**: Docker, GitHub Actions
 
 ### 🎵 Beyond Code
 When I'm not coding, you'll find me:

@@ -1,26 +1,30 @@
-# Hey there, I'm Jan (omgitsjan) 👋
+# Hey there, I'm Jan ([omgitsjan](https://github.com/omgitsjan)) 👋
 
 Full Stack Developer | Music Producer | Car Enthusiast
 
 ---
 
 ### 🚀 Currently working on
-- **[Daylify](https://github.com/JPProfessionals/daylify-app)**: Building a community-driven local event & POI app (React Native/Nuxt 4).
-- **[CarSpike](https://github.com/JPProfessionals/CarSpike-com)**: A fleet management showcase featuring a **3D Garage** built with Three.js & React Three Fiber.
-- **Agency Work**: Scaling digital solutions at [JPProfessionals](https://github.com/JPProfessionals).
+- **[Domain Checker](https://domain.jpprofessionals.de)** ([source](https://github.com/JPProfessionals/domain-checker)): open-source domain availability checker. Nuxt 4, DNS-over-HTTPS, no ads.
+- **[Follow Checker](https://github.com/omgitsjan/instagram-follow-checker)**: Chrome extension for mutuals, not following back, and not followed back. Runs locally on your session.
+- **[Daylify](https://daylify.de)**: community-driven local events and POIs (React Native / Expo). Landing is live; the app repo is private.
+- **Agency work** at [JPProfessionals](https://github.com/JPProfessionals): client sites like [MB Parkett](https://mbparkett.com) (Nuxt) plus private Next.js work (CarSpike, Plutomes).
+
+### ⭐ Open source
+- **[DiscordBotAiStarter](https://github.com/omgitsjan/DiscordBotAiStarter)**: C# / .NET Discord bot starter with OpenAI. Also on [Docker Hub](https://hub.docker.com/r/omgitsjan/discordbotai).
 
 ### 🛠 Tech Stack
-- **Frontend**: Nuxt (💚), React Native (Expo), Next.js, Tailwind CSS
-- **Backend**: Node.js, Supabase, PostgreSQL
-- **DevOps**: Docker, GitHub Actions
+- **Frontend**: Nuxt, Next.js, React Native (Expo), Tailwind CSS
+- **Backend**: Node.js, C# / .NET, Supabase, PostgreSQL
+- **DevOps**: Docker, GitHub Actions, Vercel, Cloudflare
 
 ### 🎵 Beyond Code
 When I'm not coding, you'll find me:
-- Producing electronic music as **[Plutomes](https://plutomes.com)**.
-- Driving or tinkering with cars.
+- Producing electronic music as **[Plutomes](https://plutomes.com)**
+- Driving or tinkering with cars
 
-### 📫 Connect with me
-- **Website**: [janpetry.de](https://janpetry.de)
+### 📬 Connect
+- **GitHub**: [omgitsjan](https://github.com/omgitsjan)
 - **Discord**: omgitsjan
 - **Email**: [mail@janpetry.de](mailto:mail@janpetry.de)
 
